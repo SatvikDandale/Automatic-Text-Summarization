@@ -6,4 +6,4 @@ The algorithm is simple and straight-forward. It uses a score based system, wher
 
 Being a simple algorithm, this technique of summarization is extremely fast and very efficient. The size of the Summary Text ranges from 35% to 50%, which is really great in terms of larger texts.
 
-The algorithm is explained in detail in the file (Text_Summarization_Paper.pdf)
+The algorithm is explained in detail in this [file](Text_Summarization_Paper.pdf)
