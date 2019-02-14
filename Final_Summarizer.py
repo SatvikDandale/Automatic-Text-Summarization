@@ -2,11 +2,7 @@ import nltk
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
-'''
-f = open("main_para.txt", "r")
-text = f.read()
-f.close()
-'''
+
 print("Enter the text that you want to summarize:\n")
 text = input()
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
